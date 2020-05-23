@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
 body {
-    font-family: sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2 {
@@ -14,4 +16,10 @@ footer {
     padding: 20px;
     color: white;
     background-color: violet;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
 }
